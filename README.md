@@ -83,7 +83,6 @@ print("for population=70000 we predict a profit of $"+str(round(predict2,0)))
 
 ## Output:
 ![Prediction graph](predgraph.png)
-![Cost](cost.png)
 ![cost function using gradient descent](costFunction.png)
 ![HCost](hcost.png)
 ![linear regression using gradient descent](popVsProfit.png)
